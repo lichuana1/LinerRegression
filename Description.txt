@@ -1,0 +1,3 @@
+IDE : Pycharm
+module : numpy
+reference book ：tensorflow2深度学习
